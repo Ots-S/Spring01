@@ -27,7 +27,7 @@ public class DoctorApplication {
     @RequestMapping("/doctor/1")
     @ResponseBody
     public String doctor1() {
-        return "Patrick Troughton";
+        return "William Hartnell";
     }
 
 
